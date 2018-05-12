@@ -1,0 +1,31 @@
+_repo: La-messa-di-nozze--Un-sogno--La-bella-morte_32193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Roberto, Federico
+    aliases:
+    - De Roberto, Federigo
+    - Roberto, Federico de
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '31124'
+    url: http://www.gutenberg.org/2009/agents/31124
+    wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2010-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32193'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+title: La messa di nozze; Un sogno; La bella morte
+url: http://www.gutenberg.org/ebooks/32193
